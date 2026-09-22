@@ -1,0 +1,5 @@
+# Keep original phone photos local; publish web-friendly copies from assets/.
+*.heic
+*.HEIC
+
+.DS_Store
